@@ -1,5 +1,5 @@
 ## HarrisonWHWright@gmail.com
-Harrison W. H. Wright (арсений рытов)
-- undergrad Queen's University Belfast
+Harrison W. H. Wright (Арсений Рытов)
+- BSc Computer Science undergrad Queen's University Belfast
 - python / java
 - javascript, html, css, sql
