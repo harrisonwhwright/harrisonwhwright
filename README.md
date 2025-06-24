@@ -6,4 +6,4 @@ BSc Computer Science undergrad Queen's University Belfast
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisonwhwright)](https://github.com/harrisonwhwright/github-readme-stats)
 
-HarrisonWHWright@gmail.com
+[HarrisonWHWright@gmail.com](mailto:HarrisonWHWright@gmail.com)
